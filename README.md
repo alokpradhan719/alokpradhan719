@@ -1,118 +1,97 @@
 
-👋 Hi, I’m Alok Pradhan
+# 👋 Hi, I’m **Alok Pradhan**
 
-🎓 B.Tech CSE (AI & ML)
-💡 Passionate developer focused on AI, Machine Learning & software innovation
-🔥 Curious learner | Builder | Tech enthusiast
+🎓 **B.Tech — Computer Science & Engineering (AI & ML)**  
+💡 Passionate about **Artificial Intelligence, Machine Learning & Software Development**  
+🚀 Curious Learner | Innovator | Tech Enthusiast  
 
-🧠 About Me
+---
 
-🌟 Strong leadership & communication skills
+## 🔥 **About Me**
+- ✅ Strong **leadership & communication** skills  
+- ✅ Work confidently under **stressful / fast-paced environments**  
+- ✅ Exploring **AI, ML, Data science & Automation**  
+- ✅ Interested in **Product Development, R&D & Open-Source contributions**
+- ✅ I believe in **Learning → Building → Sharing**
 
-🔥 Comfortable working under stressful / fast-paced environments
+---
 
-🤖 Exploring AI/ML, Data Science & Automation
+## 🛠️ **Skills**
 
-💻 Interested in product development, R&D & open-source
+### ✅ **Programming Languages**
+- **Python • C/C++ • JavaScript • Java (Basics)**
 
-📚 Committed to continuous learning & improvement
+### ✅ **AI / ML**
+- **Machine Learning**
+- **Deep Learning (Basics)**
+- Tools: **Scikit-learn • TensorFlow**
+- **Data Visualization — Matplotlib, Seaborn**
 
-✨ Believe in learning → building → sharing
+### ✅ **Tools & Technologies**
+- **Git & GitHub**
+- **Linux**
+- **MySQL / SQL**
+- **VS Code**
+- **Jupyter Notebook**
 
-🔧 Skills
-✅ Programming Languages
+### ✅ **Soft Skills**
+- **Leadership**
+- **Public Speaking**
+- **Problem Solving**
+- **Time Management**
+- **Team Collaboration**
+- **Adaptability**
 
-Python • C/C++ • JavaScript • Java (basic)
+---
 
-✅ AI / ML
+## 📘 **Currently Learning**
+- ⚡ **Deep Learning**
+- ⚡ **Generative AI**
+- ⚡ **NLP Basics**
+- ⚡ **System Design Fundamentals**
 
-Machine Learning
+---
 
-Deep Learning (basics)
+## 🚀 **Interests**
+- **AI / ML Research**
+- **Full-Stack Development**
+- **Open-Source Contribution**
+- **Automation & Optimization**
+- **Product Thinking**
 
-TensorFlow • Scikit-learn
+---
 
-Data Visualization (Matplotlib, Seaborn)
-
-✅ Tools & Technologies
-
-Git & GitHub
-
-Linux
-
-Jupyter Notebook
-
-MySQL / SQL
-
-VS Code
-
-✅ Soft Skills
-
-Leadership & Teamwork
-
-Public Speaking
-
-Time Management
-
-Problem Solving
-
-Adaptability
-
-🚀 Current Learning
-
-Deep Learning
-
-Generative AI
-
-NLP basics
-
-System Design fundamentals
-
-🔥 Interests
-
-AI / ML Research
-
-Full-Stack Development
-
-Open-Source Contribution
-
-Product Thinking
-
-Automation & Optimization
-
-📂 Featured Projects
+## 📂 **Featured Projects**
 
 
+🔹 **Project Name 1** — Short description  
+🔹 **Project Name 2** — Short description  
+🔹 **Project Name 3** — Short description  
 
+---
 
+## 📊 **GitHub Stats** 
 
-🔹 AI Model / ML System — brief description
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokpradhan719)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokpradhan719&layout=compact)
 
-🔹 Web App / Full-Stack Project — brief description
+---
 
-🔹 Automation Tool — brief description
-
-=
-
-
-
-
-🔗 Connect With Me
-
-🌐 LinkedIn:www.linkedin.com/in/
+## 🔗 **Connect With Me**
+- 🌐 **LinkedIn:** *www.linkedin.com/in/
 alok-pradhan-14b737263
+*
+- 📧 **Email:** *alokpradhan7192gmail.com*
 
+---
 
-📧 Email: alokpradhan719@gmail.com
+## ✨ **Fun Facts**
+- 💬 Love talking about tech & innovation  
+- 🎧 Music helps me code better  
+- 🧩 Curious thinker & problem solver  
 
-🌱 Fun Facts
+---
 
-💬 I enjoy discussing tech + innovation
-
-🎧 Love music while coding
-
-🧩 Problem-solver & curious thinker
-
-⭐ Thanks for checking out my profile!
-Let’s connect and create something amazing 🚀
+⭐ **Thank you for visiting my profile!**  
+Let’s connect and build amazing things together 🚀
 
