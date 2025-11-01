@@ -80,7 +80,6 @@
 ## 🔗 **Connect With Me**
 - 🌐 **LinkedIn:** *www.linkedin.com/in/
 alok-pradhan-14b737263
-*
 - 📧 **Email:** *alokpradhan7192gmail.com*
 
 ---
