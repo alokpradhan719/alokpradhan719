@@ -64,9 +64,9 @@
 ## 📂 **Featured Projects**
 
 
-🔹 **Project Name 1** — Short description  
-🔹 **Project Name 2** — Short description  
-🔹 **Project Name 3** — Short description  
+🔹 **Project Name 1** — Airline Management System :- A Java Swing Website used for manage the booking and cancelletion of tickets .  
+🔹 **Project Name 2** — Face Recogination System :- A Java Swing System used to detect the human faces and capture it .  
+  
 
 ---
 
