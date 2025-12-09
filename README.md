@@ -65,7 +65,8 @@
 
 
 🔹 **Project Name 1** — Airline Management System :- A Java Swing Website used for manage the booking and cancelletion of tickets .  
-🔹 **Project Name 2** — Face Recogination System :- A Java Swing System used to detect the human faces and capture it .  
+🔹 **Project Name 2** — A Simple ChatBot :- A Python based chatbot used for simple operations and simple conversations .  
+🔹 **Project Name 3** — Face Recogination System :- A Java Swing System used to detect the human faces and capture it .  
   
 
 ---
