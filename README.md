@@ -19,7 +19,10 @@
 ## 🛠️ **Skills**
 
 ### ✅ **Programming Languages**
-- **Python • C/C++ • JavaScript • Java (Basics)**
+- **Python
+- • C/C++
+- • JavaScript
+- • Java (Basics)**
 
 ### ✅ **AI / ML**
 - **Machine Learning**
