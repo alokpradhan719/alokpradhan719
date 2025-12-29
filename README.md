@@ -1,96 +1,134 @@
-👋 Hi, I'm Alok Pradhan
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Aspiring+AI%2FML+Engineer;Software+Developer;Tech+Explorer+%F0%9F%9A%80" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=alokpadhan719&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+# 👋 Hi, I'm **Alok Pradhan**
 
-🎓 B.Tech – Computer Science & Engineering (AI & ML)
-💡 AI/ML Engineer | Software Developer | Tech Enthusiast
-🚀 Passionate about building intelligent systems & scalable software
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Aspiring+AI%2FML+Engineer;Software+Developer;Tech+Explorer+%F0%9F%9A%80" />
+</p>
 
-🧑‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alokpadhan719&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-I’m a Computer Science undergraduate specializing in AI & ML, driven by curiosity and hands-on learning. I enjoy converting ideas into real-world applications and growing through continuous experimentation.
+🎓 **B.Tech – Computer Science & Engineering (AI & ML)**  
+💡 **AI/ML Engineer | Software Developer | Tech Enthusiast**  
+🚀 Passionate about building **intelligent systems & scalable software**
 
-🔍 Exploring AI, ML, Data Science & Automation
+---
 
-🧠 Strong problem-solving mindset
+## 🧑‍💻 About Me
 
-⚙️ Interested in Product Development, R&D & Open Source
+I’m a **Computer Science undergraduate specializing in AI & ML**, driven by curiosity and hands-on learning. I enjoy converting ideas into **real-world applications** and growing through continuous experimentation.
 
-🤝 Team player with leadership qualities
+- 🔍 Exploring **AI, ML, Data Science & Automation**
+- 🧠 Strong problem-solving mindset
+- ⚙️ Interested in **Product Development, R&D & Open Source**
+- 🤝 Team player with leadership qualities
+- ⚡ Comfortable in fast-paced environments
 
-⚡ Comfortable in fast-paced environments
+---
 
-🛠️ Skills & Technologies
-💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&theme=dark" /> </p>
-🤖 AI / Machine Learning
+## 🛠️ Skills & Technologies
 
-Machine Learning
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&theme=dark" />
+</p>
 
-Deep Learning (Foundational)
+### 🤖 AI / Machine Learning
+- Machine Learning  
+- Deep Learning *(Foundational)*  
+- Generative AI *(Learning)*  
 
-Generative AI (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+</p>
 
-<p> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" /> </p>
-🌐 Web & Databases
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css&theme=dark" /> </p>
-🧰 Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter&theme=dark" /> </p>
-📘 Currently Learning
+### 🌐 Web & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css&theme=dark" />
+</p>
 
-⚡ Deep Learning
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter&theme=dark" />
+</p>
 
-⚡ Generative AI
+---
 
-⚡ NLP
+## 📘 Currently Learning
 
-⚡ System Design Fundamentals
+- ⚡ Deep Learning  
+- ⚡ Generative AI  
+- ⚡ Natural Language Processing (NLP)  
+- ⚡ System Design Fundamentals  
 
-📂 Featured Projects
-🏭 Machine Records Management Application
+---
 
-Tech Stack: Node.js, Express.js, MongoDB, HTML, CSS, JavaScript
+## 📂 Featured Projects
 
-Full-stack application for managing machine records
+### 🏭 **Machine Records Management Application**
+**Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS, JavaScript  
 
-Interactive analytics dashboard for injection molding data
+- Full-stack web application for managing machine records  
+- Interactive analytics dashboard for injection molding data  
+- Real-time charts, advanced filtering & data export (CSV, Excel, JSON)
 
-Real-time charts, advanced filtering & data export
+---
 
-✈️ Airline Management System
+### ✈️ **Airline Management System**
+**Tech Stack:** Java, Swing  
 
-Tech Stack: Java, Swing
+- Ticket booking & cancellation system  
+- Desktop-based UI with backend reservation logic  
 
-Ticket booking & cancellation system
+---
 
-Desktop-based UI with backend logic
+### 🤖 **Simple ChatBot**
+**Tech Stack:** Python  
 
-🤖 Simple ChatBot
+- Rule-based conversational chatbot  
+- Demonstrates dialog flow & response handling  
 
-Tech Stack: Python
+---
 
-Rule-based conversational chatbot
+### 👤 **Face Recognition System**
+**Tech Stack:** Java, Swing  
 
-Demonstrates dialog flow & logic
+- Desktop application for face detection & capture  
 
-👤 Face Recognition System
+---
 
-Tech Stack: Java, Swing
+## 📊 GitHub Analytics
 
-Desktop face detection & capture system
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokpadhan719&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpadhan719&theme=tokyonight" height="165"/>
+</p>
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alokpadhan719&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpadhan719&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpadhan719&layout=compact&theme=tokyonight"/> </p>
-🔗 Connect With Me
-<p> <a href="https://www.linkedin.com/in/alok-pradhan-14b737263"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:alokpradhan719@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
-✨ Fun Facts
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpadhan719&layout=compact&theme=tokyonight"/>
+</p>
 
-🎧 Music boosts my coding focus
+---
 
-💬 Love tech discussions
+## 🔗 Connect With Me
 
-🧩 Curious & lifelong learner
+<p>
+  <a href="https://www.linkedin.com/in/alok-pradhan-14b737263">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:alokpradhan719@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-⭐ Star my repositories if you like my work!
+---
 
-⭐ *Thanks for visiting my profile!*  
-🤝 *Let’s connect, collaborate, and build impactful technology together.*
+## ✨ Fun Facts
+
+- 🎧 Music boosts my focus while coding  
+- 💬 Love discussing technology & innovation  
+- 🧩 Curious thinker & lifelong learner  
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
