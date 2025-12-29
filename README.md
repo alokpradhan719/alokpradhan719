@@ -1,135 +1,96 @@
-# 👋 Hi, I'm Alok Pradhan  
+👋 Hi, I'm Alok Pradhan
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Aspiring+AI%2FML+Engineer;Software+Developer;Tech+Explorer+%F0%9F%9A%80" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=alokpadhan719&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 
-🎓 **B.Tech — Computer Science & Engineering (AI & ML)**  
-💡 Aspiring **AI/ML Engineer | Software Developer | Tech Enthusiast**  
-🚀 Passionate about building intelligent systems and scalable software solutions  
+🎓 B.Tech – Computer Science & Engineering (AI & ML)
+💡 AI/ML Engineer | Software Developer | Tech Enthusiast
+🚀 Passionate about building intelligent systems & scalable software
 
----
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me  
+I’m a Computer Science undergraduate specializing in AI & ML, driven by curiosity and hands-on learning. I enjoy converting ideas into real-world applications and growing through continuous experimentation.
 
-I am a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in **software development, automation, and product-oriented engineering**. I enjoy transforming ideas into real-world applications and believe in continuous learning through hands-on building and sharing knowledge with the community.
+🔍 Exploring AI, ML, Data Science & Automation
 
-- 🔍 Exploring **AI, ML, Data Science & Automation**
-- 🧠 Curious learner with a problem-solving mindset
-- ⚙️ Interested in **Product Development, R&D, and Open-Source**
-- 🤝 Strong leadership, communication, and teamwork skills
-- ⚡ Comfortable working in **fast-paced and high-pressure environments**
+🧠 Strong problem-solving mindset
 
----
+⚙️ Interested in Product Development, R&D & Open Source
 
-## 🛠️ Technical Skills  
+🤝 Team player with leadership qualities
 
-### 💻 Programming Languages  
-- **Python**
-- **C / C++**
-- **JavaScript**
-- **Java (Basics)**
+⚡ Comfortable in fast-paced environments
 
-### 🤖 AI / Machine Learning  
-- Machine Learning  
-- Deep Learning *(Foundational)*  
-- Tools & Libraries:  
-  - Scikit-learn  
-  - TensorFlow  
-- Data Visualization:  
-  - Matplotlib  
-  - Seaborn  
+🛠️ Skills & Technologies
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&theme=dark" /> </p>
+🤖 AI / Machine Learning
 
-### 🧰 Tools & Technologies  
-- Git & GitHub  
-- Linux  
-- MySQL / SQL  
-- VS Code  
-- Jupyter Notebook  
+Machine Learning
 
-### 🌱 Soft Skills  
-- Leadership & Team Collaboration  
-- Public Speaking  
-- Problem Solving  
-- Time Management  
-- Adaptability  
+Deep Learning (Foundational)
 
----
+Generative AI (Learning)
 
-## 📘 Currently Learning  
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" /> </p>
+🌐 Web & Databases
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css&theme=dark" /> </p>
+🧰 Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter&theme=dark" /> </p>
+📘 Currently Learning
 
-- ⚡ Deep Learning  
-- ⚡ Generative AI  
-- ⚡ Natural Language Processing (NLP)  
-- ⚡ System Design Fundamentals  
+⚡ Deep Learning
 
----
+⚡ Generative AI
 
-## 🚀 Interests  
+⚡ NLP
 
-- AI / ML Research  
-- Full-Stack Development  
-- Open-Source Contribution  
-- Automation & Optimization  
-- Product Thinking  
+⚡ System Design Fundamentals
 
----
+📂 Featured Projects
+🏭 Machine Records Management Application
 
-## 📂 Featured Projects  
+Tech Stack: Node.js, Express.js, MongoDB, HTML, CSS, JavaScript
 
+Full-stack application for managing machine records
 
-### 🏭 Machine Records Management Application  
-**Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS, JavaScript  
-A **full-stack web application** for tracking and managing machine records with a **modern, responsive frontend** and a **MongoDB-powered REST API**.  
-Includes an **advanced interactive dashboard** for analyzing **injection molding process data**
-#### 🚀 Dashboard Features  
-- 📈 Interactive charts for **process metrics & temperature zones**  
-- 🔍 Advanced filtering (single date, multiple dates/times, date range)  
-- 📋 Data preview (first 10 records with full export options)  
-- 📥 Export data in **CSV, Excel & JSON** formats  
-- ⚡ Real-time updates with instant chart refresh
+Interactive analytics dashboard for injection molding data
 
-- 
-### ✈️ Airline Management System  
-**Tech Stack:** Java, Swing  
-- Desktop-based system for airline ticket booking and cancellation  
-- Implemented user-friendly UI with backend logic for managing reservations  
+Real-time charts, advanced filtering & data export
 
-### 🤖 Simple ChatBot  
-**Tech Stack:** Python  
-- Rule-based chatbot for basic conversations and operations  
-- Designed to demonstrate conversational logic and flow handling  
+✈️ Airline Management System
 
-### 👤 Face Recognition System  
-**Tech Stack:** Java, Swing  
-- Desktop application for detecting and capturing human faces  
-- Implemented basic face detection functionality  
+Tech Stack: Java, Swing
 
----
+Ticket booking & cancellation system
 
-## 📊 GitHub Analytics  
+Desktop-based UI with backend logic
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok-pradhan&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-pradhan&theme=tokyonight" height="165"/>
-</p>
+🤖 Simple ChatBot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-pradhan&layout=compact&theme=tokyonight"/>
-</p>
+Tech Stack: Python
 
----
+Rule-based conversational chatbot
 
-## 🔗 Connect With Me  
+Demonstrates dialog flow & logic
 
-- 💼 **LinkedIn:** [linkedin.com/in/alok-pradhan-14b737263](https://www.linkedin.com/in/alok-pradhan-14b737263)  
-- 📧 **Email:** alokpradhan719@gmail.com  
+👤 Face Recognition System
 
----
+Tech Stack: Java, Swing
 
-## ✨ Fun Facts  
+Desktop face detection & capture system
 
-- 💬 Love discussing technology, innovation, and future trends  
-- 🎧 Music boosts my focus while coding  
-- 🧩 Naturally curious thinker and lifelong learner  
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alokpadhan719&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpadhan719&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpadhan719&layout=compact&theme=tokyonight"/> </p>
+🔗 Connect With Me
+<p> <a href="https://www.linkedin.com/in/alok-pradhan-14b737263"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:alokpradhan719@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
+✨ Fun Facts
 
----
+🎧 Music boosts my coding focus
+
+💬 Love tech discussions
+
+🧩 Curious & lifelong learner
+
+⭐ Star my repositories if you like my work!
 
 ⭐ *Thanks for visiting my profile!*  
 🤝 *Let’s connect, collaborate, and build impactful technology together.*
