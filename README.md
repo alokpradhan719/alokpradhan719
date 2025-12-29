@@ -100,12 +100,12 @@ I’m a **Computer Science undergraduate specializing in AI & ML**, driven by cu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokpadhan719&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpadhan719&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alokpradhan719&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpradhan719&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpadhan719&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpradhan719&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
