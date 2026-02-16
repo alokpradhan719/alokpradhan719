@@ -1,7 +1,7 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A66C2,100:6C63FF&text=Alok%20Pradhan&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A66C2,100:6C63FF&text=Alok%20Pradhan&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=AI%20|%20ML%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=65&descSize=18"/>
 </p>
 
 <p align="center">
@@ -10,19 +10,17 @@
 
 ---
 
-<!-- ==================== NAVIGATION ==================== -->
-
 <p align="center">
-  <a href="#about-me">About</a> •
+  <a href="#about">About</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#projects">Projects</a> •
   <a href="#github-analytics">Analytics</a> •
-  <a href="#connect-with-me">Contact</a>
+  <a href="#connect">Contact</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
 🎓 **B.Tech – Computer Science & Engineering (AI & ML)**  
 💡 AI/ML Engineer | Software Developer  
@@ -35,7 +33,7 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Programming Languages
 <p align="center">
@@ -65,92 +63,84 @@
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
-## 🏭 Machine Records Management System
+### 🏭 Machine Records Management System
 **Node.js | Express | MongoDB**
 
-✔ Industrial data management  
-✔ Real-time analytics dashboard  
-✔ CSV / Excel / JSON export  
-✔ Advanced filtering & visualization  
+- Industrial machine data management  
+- Real-time analytics dashboard  
+- CSV / Excel / JSON export  
+- Advanced filtering & visualization  
 
 ---
 
-## ✈️ Airline Management System
+### ✈️ Airline Management System
 **Java | Swing**
 
-✔ Booking & cancellation  
-✔ Desktop-based reservation logic  
-✔ OOP structured system  
+- Booking & cancellation system  
+- Desktop-based reservation logic  
+- Modular OOP architecture  
 
 ---
 
-## 🤖 AI ChatBot
+### 🤖 AI ChatBot
 **Python**
 
-✔ Rule-based conversational engine  
-✔ Modular dialog handling  
+- Rule-based conversational engine  
+- Modular dialog flow design  
 
 ---
 
-## 👁 Face Recognition System
+### 👁 Face Recognition System
 **Java | Swing**
 
-✔ Face detection & capture  
-✔ Desktop biometric prototype  
+- Face detection & capture  
+- Desktop biometric prototype  
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokpradhan719&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alokpradhan719&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpradhan719&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alokpradhan719&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpradhan719&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alokpradhan719/alokpradhan719/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alok-pradhan-14b737263">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/alokpradhan719">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:alokpradhan719@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-- 🔥 Master Deep Learning & NLP  
-- 🔥 Build Production-Level AI Systems  
-- 🔥 Contribute to Open Source  
-- 🔥 Secure Top AI/ML Internship  
+- Master Deep Learning & NLP  
+- Build Production-Level AI Systems  
+- Contribute to Open Source  
+- Secure Top AI/ML Internship  
 
 ---
 
