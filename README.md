@@ -1,76 +1,124 @@
-# 👋 Hi, I'm Alok Pradhan
+<!-- ==================== HEADER ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems;Tech+Explorer+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A66C2,100:6C63FF&text=Alok%20Pradhan&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=18"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;AI+%26+ML+Enthusiast;Scalable+Software+Developer;Tech+Explorer+🚀" />
+</p>
+
+---
+
+<!-- ==================== NAVIGATION ==================== -->
+
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#github-analytics">Analytics</a> •
+  <a href="#connect-with-me">Contact</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech – Computer Science & Engineering (AI & ML)  
+🎓 **B.Tech – Computer Science & Engineering (AI & ML)**  
 💡 AI/ML Engineer | Software Developer  
-🚀 Passionate about scalable systems & intelligent applications  
+🚀 Passionate about building scalable, production-ready systems.
 
-- 🔬 Exploring AI, ML & Data Science  
-- ⚙️ Full-Stack Development  
-- 🧠 Strong Problem-Solving Skills  
-- 📈 Learning System Design  
+- 🔬 Exploring AI, Deep Learning & NLP  
+- ⚙️ Full-Stack & Backend Development  
+- 🧠 Strong problem-solving mindset  
+- 📈 Learning advanced System Design  
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript&theme=dark" />
 </p>
 
+---
+
 ### 🤖 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark" />
 </p>
+
+---
 
 ### 🌐 Web & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css&theme=dark" />
 </p>
 
-### 🧰 Tools
+---
+
+### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter,docker&theme=dark" />
 </p>
 
 ---
 
-## 🏆 Featured Projects
+# 🚀 Projects
 
-### 🏭 Machine Records Management System  
-Node.js | Express | MongoDB  
-- Real-time analytics dashboard  
-- Data export (CSV, Excel, JSON)  
-- Industrial data management system  
+## 🏭 Machine Records Management System
+**Node.js | Express | MongoDB**
 
-### ✈️ Airline Management System  
-Java | Swing  
-- Booking & cancellation system  
-- Desktop-based reservation logic  
-
-### 🤖 AI ChatBot  
-Python  
-- Rule-based conversational chatbot  
-
-### 👁 Face Recognition System  
-Java | Swing  
-- Face detection & capture prototype  
+✔ Industrial data management  
+✔ Real-time analytics dashboard  
+✔ CSV / Excel / JSON export  
+✔ Advanced filtering & visualization  
 
 ---
 
-## 📊 GitHub Analytics
+## ✈️ Airline Management System
+**Java | Swing**
+
+✔ Booking & cancellation  
+✔ Desktop-based reservation logic  
+✔ OOP structured system  
+
+---
+
+## 🤖 AI ChatBot
+**Python**
+
+✔ Rule-based conversational engine  
+✔ Modular dialog handling  
+
+---
+
+## 👁 Face Recognition System
+**Java | Swing**
+
+✔ Face detection & capture  
+✔ Desktop biometric prototype  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alokpradhan719&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpradhan719&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alokpradhan719&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alokpradhan719/alokpradhan719/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -78,34 +126,34 @@ Java | Swing
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alok-pradhan-14b737263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/alok-pradhan-14b737263">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/alokpradhan719" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <a href="https://github.com/alokpradhan719">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:alokpradhan719@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  &nbsp;
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- Master Deep Learning & NLP  
-- Build Production-Level AI Systems  
-- Contribute to Open Source  
-- Secure Top AI/ML Internship  
+- 🔥 Master Deep Learning & NLP  
+- 🔥 Build Production-Level AI Systems  
+- 🔥 Contribute to Open Source  
+- 🔥 Secure Top AI/ML Internship  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C63FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0A66C2&height=120&section=footer"/>
 </p>
