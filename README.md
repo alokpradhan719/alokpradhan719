@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0A66C2,100:6C63FF&text=Alok%20Pradhan&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A66C2,100:6C63FF&text=Alok%20Pradhan&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=AI%20|%20ML%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=65&descSize=18"/>
 </p>
 
 <p align="center">
@@ -9,26 +9,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;3D+Tech+Explorer;Full+Stack+Developer;Building+Future+Systems+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;3D+Tech+Explorer;Building+Future+Systems+🚀" />
 </p>
 
 ---
 
-<!-- ================= 3D PORTFOLIO ================= -->
-
-## 🌌 3D Interactive Portfolio
+## 🌌 3D Portfolio
 
 <p align="center">
-  <a href="https://your-3d-portfolio.vercel.app">
+  <a href="https://your-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/🚀%20Launch%203D%20Portfolio-00C2FF?style=for-the-badge"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </p>
-
-> ⚡ Built using **Three.js + WebGL + Interactive UI**
 
 ---
 
@@ -37,10 +33,10 @@
 🎓 B.Tech CSE (AI & ML)  
 💡 AI/ML Engineer | Full Stack Developer  
 
-- 🧠 AI + Deep Learning  
-- ⚙️ Backend Systems  
-- 🌐 Scalable Architectures  
-- 🚀 3D + Interactive UI Enthusiast  
+- 🔬 AI, Deep Learning & NLP  
+- ⚙️ Backend & Full Stack  
+- 🧠 Problem Solver  
+- 🚀 Exploring 3D Web Tech  
 
 ---
 
@@ -52,58 +48,55 @@
 
 ---
 
-## ⚡ Animated Skill Graph
+## ⚡ GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alokpradhan719&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alokpradhan719&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🚀 Projects (With Visual Preview)
+## 🚀 Projects
 
 ### 🏭 Machine Records Management System
+
 <p align="center">
-  <img src="https://via.placeholder.com/500x250.png?text=Project+Preview" />
+  <img src="https://images.unsplash.com/photo-1581092919537-5e5c1c9c0c0f?auto=format&fit=crop&w=800&q=80" width="500"/>
 </p>
 
 - Node.js | Express | MongoDB  
 - Real-time analytics  
-- Data export system  
+- Data export  
 
 ---
 
-### 🤖 AI ChatBot
+### 🤖 AI Chatbot
 
 <p align="center">
-  <img src="https://via.placeholder.com/500x250.png?text=AI+Chatbot+Preview" />
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80" width="500"/>
 </p>
 
-- Python-based AI assistant  
-- Modular conversation engine  
+- Python-based chatbot  
+- Modular design  
 
 ---
 
-### 👁 Face Recognition System
+### 👁 Face Recognition
 
 <p align="center">
-  <img src="https://via.placeholder.com/500x250.png?text=Face+Recognition+Preview" />
+  <img src="https://images.unsplash.com/photo-1581090700227-1e8a3c27f7c5?auto=format&fit=crop&w=800&q=80" width="500"/>
 </p>
 
 - Java + OpenCV  
-- Biometric detection system  
+- Face detection  
 
 ---
 
-## 🧠 AI Zone (Cool Section)
+## 🧠 AI Zone
 
 ```python
 class AIEngineer:
-    def __init__(self):
-        self.skills = ["AI", "ML", "Backend", "3D UI"]
-
     def build(self):
         return "Creating intelligent systems 🚀"
 
-me = AIEngineer()
-print(me.build())
+print(AIEngineer().build())
