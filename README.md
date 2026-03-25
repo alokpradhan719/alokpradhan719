@@ -1,149 +1,169 @@
-<!-- ================= HEADER ================= -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Alok Pradhan | AI/ML Engineer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A66C2,100:6C63FF&text=Alok%20Pradhan&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=AI%20|%20ML%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=65&descSize=18"/>
-</p>
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;AI+%26+ML+Enthusiast;Scalable+Software+Developer;Tech+Explorer+🚀" />
-</p>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
 
----
+    body {
+      background: linear-gradient(135deg, #0A66C2, #6C63FF);
+      color: white;
+      overflow-x: hidden;
+    }
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#github-analytics">Analytics</a> •
-  <a href="#connect">Contact</a>
-</p>
+    header {
+      text-align: center;
+      padding: 80px 20px;
+    }
 
----
+    header h1 {
+      font-size: 3rem;
+      animation: fadeIn 2s ease-in-out;
+    }
 
-## 👨‍💻 About
+    header p {
+      margin-top: 10px;
+      font-size: 1.2rem;
+      opacity: 0.9;
+    }
 
-🎓 **B.Tech – Computer Science & Engineering (AI & ML)**  
-💡 AI/ML Engineer | Software Developer  
-🚀 Passionate about building scalable, production-ready systems.
+    nav {
+      text-align: center;
+      margin: 20px 0;
+    }
 
-- 🔬 Exploring AI, Deep Learning & NLP  
-- ⚙️ Full-Stack & Backend Development  
-- 🧠 Strong problem-solving mindset  
-- 📈 Learning advanced System Design  
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: 500;
+    }
 
----
+    section {
+      padding: 60px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
 
-## 🛠 Tech Stack
+    .card {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      padding: 20px;
+      border-radius: 15px;
+      margin: 20px 0;
+      transition: transform 0.3s ease;
+    }
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript&theme=dark" />
-</p>
+    .card:hover {
+      transform: translateY(-10px);
+    }
 
----
+    .tech span {
+      display: inline-block;
+      background: rgba(255,255,255,0.2);
+      padding: 8px 12px;
+      margin: 5px;
+      border-radius: 8px;
+    }
 
-### 🤖 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark" />
-</p>
+    footer {
+      text-align: center;
+      padding: 30px;
+      background: rgba(0,0,0,0.2);
+    }
 
----
+    @keyframes fadeIn {
+      from {opacity: 0; transform: translateY(20px);}
+      to {opacity: 1; transform: translateY(0);}
+    }
 
-### 🌐 Web & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css&theme=dark" />
-</p>
+  </style>
+</head>
 
----
+<body>
 
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter,docker&theme=dark" />
-</p>
+<header>
+  <h1>Alok Pradhan</h1>
+  <p>AI | ML Engineer | Full Stack Developer 🚀</p>
+</header>
 
----
+<nav>
+  <a href="#about">About</a>
+  <a href="#tech">Tech Stack</a>
+  <a href="#projects">Projects</a>
+  <a href="#contact">Contact</a>
+</nav>
 
-## 🚀 Projects
+<section id="about">
+  <div class="card">
+    <h2>👨‍💻 About Me</h2>
+    <p>
+      B.Tech CSE (AI & ML) student passionate about building intelligent, scalable systems.
+      Strong focus on AI, backend, and system design.
+    </p>
+  </div>
+</section>
 
-### 🏭 Machine Records Management System
-**Node.js | Express | MongoDB**
+<section id="tech">
+  <div class="card">
+    <h2>🛠 Tech Stack</h2>
+    <div class="tech">
+      <span>Python</span>
+      <span>Java</span>
+      <span>C++</span>
+      <span>JavaScript</span>
+      <span>TensorFlow</span>
+      <span>PyTorch</span>
+      <span>Node.js</span>
+      <span>MongoDB</span>
+      <span>Docker</span>
+    </div>
+  </div>
+</section>
 
-- Industrial machine data management  
-- Real-time analytics dashboard  
-- CSV / Excel / JSON export  
-- Advanced filtering & visualization  
+<section id="projects">
+  <div class="card">
+    <h2>🚀 Projects</h2>
 
----
+    <h3>Machine Records Management System</h3>
+    <p>Node.js, Express, MongoDB based industrial data system with analytics dashboard.</p>
 
-### ✈️ Airline Management System
-**Java | Swing**
+    <h3>Airline Management System</h3>
+    <p>Java Swing desktop application for booking and reservations.</p>
 
-- Booking & cancellation system  
-- Desktop-based reservation logic  
-- Modular OOP architecture  
+    <h3>AI Chatbot</h3>
+    <p>Python-based rule-driven chatbot with modular design.</p>
 
----
+    <h3>Face Recognition System</h3>
+    <p>Java-based biometric prototype for face detection.</p>
+  </div>
+</section>
 
-### 🤖 AI ChatBot
-**Python**
+<section id="contact">
+  <div class="card">
+    <h2>🌐 Contact</h2>
+    <p>Email: alokpradhan719@gmail.com</p>
+    <p>
+      <a href="https://github.com/alokpradhan719" style="color:white;">GitHub</a> |
+      <a href="https://linkedin.com" style="color:white;">LinkedIn</a>
+    </p>
+  </div>
+</section>
 
-- Rule-based conversational engine  
-- Modular dialog flow design  
+<footer>
+  <p>⚡ Turning Ideas into Intelligent Systems ⚡</p>
+</footer>
 
----
-
-### 👁 Face Recognition System
-**Java | Swing**
-
-- Face detection & capture  
-- Desktop biometric prototype  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokpradhan719&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpradhan719&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpradhan719&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alok-pradhan-14b737263">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/alokpradhan719">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:alokpradhan719@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Master Deep Learning & NLP  
-- Build Production-Level AI Systems  
-- Contribute to Open Source  
-- Secure Top AI/ML Internship  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0A66C2&height=120&section=footer"/>
-</p>
+</body>
+</html>
