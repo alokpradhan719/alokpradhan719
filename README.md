@@ -1,7 +1,7 @@
 <!-- ================= HEADER (UNCHANGED) ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0A66C2,100:6C63FF&text=Alok%20Pradhan&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A66C2,100:6C63FF&text=Alok%20Pradhan&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=70"/>
 </p>
 
 <p align="center">
