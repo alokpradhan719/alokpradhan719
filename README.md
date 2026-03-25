@@ -81,19 +81,7 @@
 
 ---
 
-## 🧠 AI Zone
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.skills = ["AI", "ML", "Backend", "3D UI"]
-
-    def build(self):
-        return "Creating intelligent systems 🚀"
-
-print(AIEngineer().build())
-
----
 
 ## 🏆 Achievements
 
@@ -166,3 +154,19 @@ print(AIEngineer().build())
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0A66C2&height=120&section=footer"/>
 </p>
+
+---
+
+## 🧠 AI Zone
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.skills = ["AI", "ML", "Backend", "3D UI"]
+
+    def build(self):
+        return "Creating intelligent systems 🚀"
+
+print(AIEngineer().build())
+
+---
