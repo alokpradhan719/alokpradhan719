@@ -1,169 +1,109 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Alok Pradhan | AI/ML Engineer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- ================= HEADER ================= -->
 
-  <!-- Google Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0A66C2,100:6C63FF&text=Alok%20Pradhan&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=70"/>
+</p>
 
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
-    }
+<p align="center">
+  <b>⚡ Turning Ideas into Intelligent Systems ⚡</b>
+</p>
 
-    body {
-      background: linear-gradient(135deg, #0A66C2, #6C63FF);
-      color: white;
-      overflow-x: hidden;
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;3D+Tech+Explorer;Full+Stack+Developer;Building+Future+Systems+🚀" />
+</p>
 
-    header {
-      text-align: center;
-      padding: 80px 20px;
-    }
+---
 
-    header h1 {
-      font-size: 3rem;
-      animation: fadeIn 2s ease-in-out;
-    }
+<!-- ================= 3D PORTFOLIO ================= -->
 
-    header p {
-      margin-top: 10px;
-      font-size: 1.2rem;
-      opacity: 0.9;
-    }
+## 🌌 3D Interactive Portfolio
 
-    nav {
-      text-align: center;
-      margin: 20px 0;
-    }
+<p align="center">
+  <a href="https://your-3d-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Launch%203D%20Portfolio-00C2FF?style=for-the-badge"/>
+  </a>
+</p>
 
-    nav a {
-      color: white;
-      margin: 0 15px;
-      text-decoration: none;
-      font-weight: 500;
-    }
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+</p>
 
-    section {
-      padding: 60px 20px;
-      max-width: 1000px;
-      margin: auto;
-    }
+> ⚡ Built using **Three.js + WebGL + Interactive UI**
 
-    .card {
-      background: rgba(255, 255, 255, 0.1);
-      backdrop-filter: blur(10px);
-      padding: 20px;
-      border-radius: 15px;
-      margin: 20px 0;
-      transition: transform 0.3s ease;
-    }
+---
 
-    .card:hover {
-      transform: translateY(-10px);
-    }
+## 👨‍💻 About
 
-    .tech span {
-      display: inline-block;
-      background: rgba(255,255,255,0.2);
-      padding: 8px 12px;
-      margin: 5px;
-      border-radius: 8px;
-    }
+🎓 B.Tech CSE (AI & ML)  
+💡 AI/ML Engineer | Full Stack Developer  
 
-    footer {
-      text-align: center;
-      padding: 30px;
-      background: rgba(0,0,0,0.2);
-    }
+- 🧠 AI + Deep Learning  
+- ⚙️ Backend Systems  
+- 🌐 Scalable Architectures  
+- 🚀 3D + Interactive UI Enthusiast  
 
-    @keyframes fadeIn {
-      from {opacity: 0; transform: translateY(20px);}
-      to {opacity: 1; transform: translateY(0);}
-    }
+---
 
-  </style>
-</head>
+## 🛠 Tech Stack
 
-<body>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,tensorflow,pytorch,nodejs,mongodb,docker&perline=5"/>
+</p>
 
-<header>
-  <h1>Alok Pradhan</h1>
-  <p>AI | ML Engineer | Full Stack Developer 🚀</p>
-</header>
+---
 
-<nav>
-  <a href="#about">About</a>
-  <a href="#tech">Tech Stack</a>
-  <a href="#projects">Projects</a>
-  <a href="#contact">Contact</a>
-</nav>
+## ⚡ Animated Skill Graph
 
-<section id="about">
-  <div class="card">
-    <h2>👨‍💻 About Me</h2>
-    <p>
-      B.Tech CSE (AI & ML) student passionate about building intelligent, scalable systems.
-      Strong focus on AI, backend, and system design.
-    </p>
-  </div>
-</section>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alokpradhan719&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<section id="tech">
-  <div class="card">
-    <h2>🛠 Tech Stack</h2>
-    <div class="tech">
-      <span>Python</span>
-      <span>Java</span>
-      <span>C++</span>
-      <span>JavaScript</span>
-      <span>TensorFlow</span>
-      <span>PyTorch</span>
-      <span>Node.js</span>
-      <span>MongoDB</span>
-      <span>Docker</span>
-    </div>
-  </div>
-</section>
+---
 
-<section id="projects">
-  <div class="card">
-    <h2>🚀 Projects</h2>
+## 🚀 Projects (With Visual Preview)
 
-    <h3>Machine Records Management System</h3>
-    <p>Node.js, Express, MongoDB based industrial data system with analytics dashboard.</p>
+### 🏭 Machine Records Management System
+<p align="center">
+  <img src="https://via.placeholder.com/500x250.png?text=Project+Preview" />
+</p>
 
-    <h3>Airline Management System</h3>
-    <p>Java Swing desktop application for booking and reservations.</p>
+- Node.js | Express | MongoDB  
+- Real-time analytics  
+- Data export system  
 
-    <h3>AI Chatbot</h3>
-    <p>Python-based rule-driven chatbot with modular design.</p>
+---
 
-    <h3>Face Recognition System</h3>
-    <p>Java-based biometric prototype for face detection.</p>
-  </div>
-</section>
+### 🤖 AI ChatBot
 
-<section id="contact">
-  <div class="card">
-    <h2>🌐 Contact</h2>
-    <p>Email: alokpradhan719@gmail.com</p>
-    <p>
-      <a href="https://github.com/alokpradhan719" style="color:white;">GitHub</a> |
-      <a href="https://linkedin.com" style="color:white;">LinkedIn</a>
-    </p>
-  </div>
-</section>
+<p align="center">
+  <img src="https://via.placeholder.com/500x250.png?text=AI+Chatbot+Preview" />
+</p>
 
-<footer>
-  <p>⚡ Turning Ideas into Intelligent Systems ⚡</p>
-</footer>
+- Python-based AI assistant  
+- Modular conversation engine  
 
-</body>
-</html>
+---
+
+### 👁 Face Recognition System
+
+<p align="center">
+  <img src="https://via.placeholder.com/500x250.png?text=Face+Recognition+Preview" />
+</p>
+
+- Java + OpenCV  
+- Biometric detection system  
+
+---
+
+## 🧠 AI Zone (Cool Section)
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.skills = ["AI", "ML", "Backend", "3D UI"]
+
+    def build(self):
+        return "Creating intelligent systems 🚀"
+
+me = AIEngineer()
+print(me.build())
